@@ -970,7 +970,7 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url('../images/details-1-background.jpg') center center no-repeat;
+	background: url('../images/climate_change_emissions_footprint.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1112,15 +1112,15 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-1 .progress-bar.first {
-	width: 100%;
+	width: 25%;
 }
 
 .tabs #tab-1 .progress-bar.second {
-	width: 75%;
+	width: 21%;
 }
 
 .tabs #tab-1 .progress-bar.third {
-	width: 90%;
+	width: 24%;
 }
 
 .tabs #tab-2 .list-unstyled {
@@ -1160,7 +1160,7 @@ input[type='checkbox'] {
 
 .tabs .area-2 {
 	height: 27rem;
-	background: url('../images/details-2-background.jpg') center center no-repeat;
+	background: url('../images/Carbon\ Footprinting-01.jpg') center center no-repeat;
 	background-size: cover;
 }
 
